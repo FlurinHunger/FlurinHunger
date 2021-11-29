@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @FlurinHunger
-- 👀 I’m interested in everything
-- 🌱 I’m currently learning basic HTML, CSS and JavaScript
+Empty
 
 <!---
 FlurinHunger/FlurinHunger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
